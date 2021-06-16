@@ -23,7 +23,7 @@
 }
 
 .blue {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .red {
@@ -157,11 +157,11 @@
 
 .validated-input>input:focus,
 .validated-input>select:focus {
-    border: solid 1px #1aa3ff
+    border: solid 1px #52ab98
 }
 
 .validated-input>input.is-dirty:not(.is-invalid):focus {
-    border: solid 1px #1aa3ff
+    border: solid 1px #52ab98
 }
 
 .validated-input>input.is-invalid.has-visited:not(:focus):not(:hover) {
@@ -301,7 +301,7 @@
     position: absolute;
     right: 0;
     top: -17px;
-    color: #1aa3ff;
+    color: #52ab98;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 11px;
@@ -311,7 +311,7 @@
 
 .validated-input>a:focus,
 .validated-input>a:hover {
-    color: #1894e8
+    color: #2b6777
 }
 
 .validated-input>.help-container {
@@ -365,8 +365,8 @@
 }
 
 .validated-input>input:focus~.help-container {
-    background-color: #1aa3ff;
-    border: solid 1px #1aa3ff;
+    background-color: #52ab98;
+    border: solid 1px #52ab98;
     border-top: none
 }
 
@@ -474,7 +474,7 @@ select.always-has-info {
     margin-top: 35px;
     padding: 0 30px;
     border-radius: 5px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     border: 0;
     color: #fff;
     display: inline-block;
@@ -486,7 +486,7 @@ select.always-has-info {
 
 .button:focus,
 .button:hover {
-    background-color: #1894e8
+    background-color: #2b6777
 }
 
 .button.disabled,
@@ -499,12 +499,12 @@ select.always-has-info {
 .button.disabled:hover,
 .button:focus[disabled],
 .button:hover[disabled] {
-    background-color: #1aa3ff
+    background-color: #52ab98
 }
 
 .button.ladda-button[disabled],
 .button.ladda-button[disabled]:hover {
-    background-color: #1aa3ff
+    background-color: #52ab98
 }
 
 .button:first-child {
@@ -579,7 +579,7 @@ select.always-has-info {
 }
 
 [type=radio]:checked+label:before {
-    border-color: #1aa3ff
+    border-color: #52ab98
 }
 
 [type=radio]:checked+label:after,
@@ -587,7 +587,7 @@ select.always-has-info {
     content: "";
     width: 8px;
     height: 8px;
-    background: #1aa3ff;
+    background: #52ab98;
     position: absolute;
     top: 4px;
     left: 4px;
@@ -1204,7 +1204,7 @@ header .hamburger svg {
 }
 
 .mfa-modal .input-container input:focus {
-    border-bottom: 2px solid #1aa3ff
+    border-bottom: 2px solid #52ab98
 }
 
 .mfa-modal .cancel {
@@ -1212,12 +1212,12 @@ header .hamburger svg {
 }
 
 .mfa-modal .cancel a {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .mfa-modal .cancel a:focus,
 .mfa-modal .cancel a:hover {
-    color: #1894e8
+    color: #2b6777
 }
 
 .mask {
@@ -1298,7 +1298,7 @@ header .hamburger svg {
 
 .limits-progress-bar .simple-progress-bar .inner-progress-bar {
     transition: width .2s ease-in;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     height: 4px
 }
 
@@ -1330,7 +1330,7 @@ header .hamburger svg {
 
 .pw-strength--bar-progress {
     height: 8px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     display: inline-block;
     transition: all .3s ease-in;
     position: absolute;
@@ -1437,7 +1437,7 @@ header .hamburger svg {
 }
 
 .discrete-progressbar .discrete-progressbar-part .discrete-progressbar-steps .step.current {
-    background-color: #1aa3ff
+    background-color: #52ab98
 }
 
 .discrete-progressbar .discrete-progressbar-part .discrete-progressbar-steps .step.past {
@@ -1526,14 +1526,14 @@ header .hamburger svg {
 
 .footer li a {
     font-size: 12px;
-    color: #1aa3ff;
+    color: #52ab98;
     margin: 5px 10px;
     display: block
 }
 
 .footer li a:focus,
 .footer li a:hover {
-    color: #1894e8
+    color: #2b6777
 }
 
 .footer hr {
@@ -1642,7 +1642,7 @@ header .hamburger svg {
 }
 
 .validated-input.copyable-field .copy-button .copy-success-icon path {
-    fill: #1aa3ff
+    fill: #52ab98
 }
 
 .validated-input.copyable-field span.label-container.copy-success-label {
@@ -1651,7 +1651,7 @@ header .hamburger svg {
 }
 
 .validated-input.copyable-field span.label-container.copy-success-label label {
-    color: #1aa3ff;
+    color: #52ab98;
     opacity: 0;
     text-align: right;
     width: 100%
@@ -1844,7 +1844,7 @@ html.updated {
     font-style: normal;
     letter-spacing: .075em;
     text-transform: uppercase;
-    color: #1aa3ff;
+    color: #52ab98;
     text-align: center
 }
 
@@ -2013,11 +2013,11 @@ html.updated {
 }
 
 .page-common .side-nav ul li a:hover {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .page-common .side-nav ul li .selected {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .page-common .side-nav ul li .disabled {
@@ -2151,7 +2151,7 @@ html.updated {
     font-family: Arial;
     font-weight: 400;
     font-style: normal;
-    font-size: 28px;
+    font-size: 48px;
     text-align: center;
     margin: 0 auto 7px auto
 }
@@ -2363,12 +2363,12 @@ html.updated {
 
 .page-common .validated-input>input:focus,
 .page-common .validated-input>select:focus {
-    border: solid 1px #1aa3ff
+    border: solid 1px #52ab98
 }
 
 .page-common .validated-input>input.is-dirty:not(.is-invalid):focus,
 .page-common .validated-input>select.is-dirty:not(.is-invalid):focus {
-    border: solid 1px #1aa3ff
+    border: solid 1px #52ab98
 }
 
 .page-common .validated-input>input.is-invalid.has-visited:not(:focus):not(:hover),
@@ -2526,7 +2526,7 @@ html.updated {
     position: absolute;
     right: 0;
     top: -17px;
-    color: #1aa3ff;
+    color: #52ab98;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 11px;
@@ -2536,7 +2536,7 @@ html.updated {
 
 .page-common .validated-input>a:focus,
 .page-common .validated-input>a:hover {
-    color: #1894e8
+    color: #2b6777
 }
 
 .page-common .validated-input>.help-container {
@@ -2582,8 +2582,8 @@ html.updated {
 }
 
 .page-common .validated-input>input:focus~.help-container {
-    background-color: #1aa3ff;
-    border: solid 1px #1aa3ff;
+    background-color: #52ab98;
+    border: solid 1px #52ab98;
     border-top: none
 }
 
@@ -2715,7 +2715,7 @@ html.updated {
     margin-top: 35px;
     padding: 0 30px;
     border-radius: 5px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     border: 0;
     color: #fff;
     display: inline-block;
@@ -2727,7 +2727,7 @@ html.updated {
 
 .page-common .button:focus,
 .page-common .button:hover {
-    background-color: #1894e8
+    background-color: #2b6777
 }
 
 .page-common .button.disabled,
@@ -2746,7 +2746,7 @@ html.updated {
 
 .page-common .button.ladda-button[disabled],
 .page-common .button.ladda-button[disabled]:hover {
-    background-color: #1aa3ff
+    background-color: #52ab98
 }
 
 .page-common .button.ladda-button[data-size="l"] .ladda-label {
@@ -2783,8 +2783,8 @@ html.updated {
 
 .page-common .button.white {
     background-color: #fff;
-    border: 1px solid #1aa3ff;
-    color: #1aa3ff
+    border: 1px solid #52ab98;
+    color: #52ab98
 }
 
 .page-common .button.white:focus,
@@ -2807,7 +2807,7 @@ html.updated {
     font-weight: 400;
     font-style: normal;
     border: none;
-    color: #1aa3ff;
+    color: #52ab98;
     font-size: 14px;
     display: block;
     cursor: pointer
@@ -2816,13 +2816,13 @@ html.updated {
 .page-common .inline-link {
     background-color: rgba(0, 0, 0, 0);
     border: none;
-    color: #1aa3ff;
+    color: #52ab98;
     cursor: pointer;
     padding: 0
 }
 
 .page-common .inline-link:hover {
-    color: #1894e8
+    color: #2b6777
 }
 
 .page-common .radio-group {
@@ -2880,7 +2880,7 @@ html.updated {
 }
 
 .page-common [type=radio]:checked+label:before {
-    border-color: #1aa3ff
+    border-color: #52ab98
 }
 
 .page-common [type=radio]:checked+label:after,
@@ -2888,7 +2888,7 @@ html.updated {
     content: "";
     width: 8px;
     height: 8px;
-    background: #1aa3ff;
+    background: #52ab98;
     position: absolute;
     top: 6px;
     left: 4px;
@@ -3029,7 +3029,7 @@ html.updated {
     font-weight: 400;
     font-style: normal;
     border-bottom: 2px solid #cceaf9;
-    color: #1aa3ff;
+    color: #52ab98;
     font-size: 18px;
     line-height: 24px;
     margin: 40px 0 20px 0;
@@ -3189,7 +3189,7 @@ html.updated {
 }
 
 .deposit-post-confirmation strong {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .deposit-post-confirmation p strong {
@@ -3233,7 +3233,7 @@ html.updated {
     font-family: Arial;
     font-weight: 400;
     font-size: 12px;
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .withdraw-warning h2 {
@@ -3262,7 +3262,7 @@ html.updated {
 }
 
 .withdraw-warning svg path {
-    fill: #1aa3ff
+    fill: #52ab98
 }
 
 .withdraw-page form .usdc-input {
@@ -3352,7 +3352,7 @@ html.updated {
 }
 
 .receive-warning-page svg path {
-    fill: #1aa3ff
+    fill: #52ab98
 }
 
 .receive-warning-page a.button.small-font {
@@ -3514,7 +3514,7 @@ html.updated {
     font-weight: 400;
     background-color: #fff;
     border: none;
-    color: #1aa3ff;
+    color: #52ab98;
     font-size: 14px;
     margin: 30px auto 0 auto;
     display: block;
@@ -3890,7 +3890,7 @@ html.updated {
 
 .limits-page .tier .tier-header .tier-status.incomplete,
 .limits-page .tier .tier-header .tier-status.pending {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .limits-page .tier .tier-header .tier-status.rejected {
@@ -3970,7 +3970,7 @@ html.updated {
 }
 
 .limits-page .tier .toggle-content .financial-info .financial-info-item.pending {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .limits-page .tier.institution {
@@ -4030,7 +4030,7 @@ html.updated {
 .transaction-history li .state.created,
 .transaction-history li .state.running,
 .transaction-history li .state.suspended {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .transaction-history li .state.complete {
@@ -4053,15 +4053,15 @@ html.updated {
 }
 
 .transaction-history li use {
-    fill: #1aa3ff
+    fill: #52ab98
 }
 
 .transaction-history li.spend use {
-    fill: #1aa3ff
+    fill: #52ab98
 }
 
 .transaction-history li.receive use {
-    fill: #1aa3ff
+    fill: #52ab98
 }
 
 .transaction-history li.failed use {
@@ -4069,7 +4069,7 @@ html.updated {
 }
 
 .transaction-history li.created use {
-    fill: #1aa3ff
+    fill: #52ab98
 }
 
 .transactions-page .transaction-history {
@@ -4119,7 +4119,7 @@ html.updated {
 }
 
 .transaction-detail-page div.pending .field.status>span {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .transaction-detail-page div.canceled .field.status>span,
@@ -4178,7 +4178,7 @@ html.updated {
     line-height: 18px;
     padding: 0 30px;
     border-radius: 5px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     border: 0;
     color: #fff;
     outline: 0;
@@ -4223,7 +4223,7 @@ html.updated {
     position: absolute;
     right: 0;
     top: -17px;
-    color: #1aa3ff;
+    color: #52ab98;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 11px;
@@ -4233,7 +4233,7 @@ html.updated {
 
 .mfa-selector-totp-component .ys-mfa-input .resend-link:focus,
 .mfa-selector-totp-component .ys-mfa-input .resend-link:hover {
-    color: #1894e8
+    color: #2b6777
 }
 
 .mfa-selector-sms-component .submit-btn {
@@ -4250,7 +4250,7 @@ html.updated {
     line-height: 18px;
     padding: 0 30px;
     border-radius: 5px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     border: 0;
     color: #fff;
     outline: 0;
@@ -4289,7 +4289,7 @@ html.updated {
     position: absolute;
     right: 0;
     top: -17px;
-    color: #1aa3ff;
+    color: #52ab98;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 11px;
@@ -4336,7 +4336,7 @@ html.updated {
 .active-sessions-component .active-sessions-list .session-list-current {
     display: inline-block;
     float: right;
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .active-sessions-component .button {
@@ -4354,8 +4354,8 @@ html.updated {
     padding: 0 30px;
     border-radius: 5px;
     background-color: #fff;
-    border: 1px solid #1aa3ff;
-    color: #1aa3ff;
+    border: 1px solid #52ab98;
+    color: #52ab98;
     outline: 0
 }
 
@@ -4369,7 +4369,7 @@ html.updated {
 .active-sessions-component .button .ladda-button[disabled]:hover,
 .active-sessions-component .button.ladda-button[disabled] {
     background-color: #fff;
-    border: 1px solid #1aa3ff
+    border: 1px solid #52ab98
 }
 
 .change-password-component .section .submit-btn {
@@ -4386,7 +4386,7 @@ html.updated {
     line-height: 18px;
     padding: 0 30px;
     border-radius: 5px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     border: 0;
     color: #fff;
     outline: 0
@@ -4407,7 +4407,7 @@ html.updated {
 }
 
 .change-password-component .section .cancel-change-password a {
-    color: #1aa3ff;
+    color: #52ab98;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
@@ -4417,7 +4417,7 @@ html.updated {
 
 .change-password-component .section .cancel-change-password a:focus,
 .change-password-component .section .cancel-change-password a:hover {
-    color: #1894e8
+    color: #2b6777
 }
 
 .change-password-component .section .validated-input {
@@ -4449,7 +4449,7 @@ html.updated {
 
 .change-password-component .section .progress-bar .progress {
     height: 8px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     display: inline-block;
     transition: all .3s ease-in;
     position: absolute;
@@ -4512,7 +4512,7 @@ html.updated {
     margin-top: 35px;
     padding: 0 30px;
     border-radius: 5px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     border: 0;
     display: inline-block;
     text-align: center;
@@ -4526,7 +4526,7 @@ html.updated {
 
 .temporary-limits-increase-modal .button:focus,
 .temporary-limits-increase-modal .button:hover {
-    background-color: #1894e8
+    background-color: #2b6777
 }
 
 .temporary-limits-increase-modal .button.disabled,
@@ -4539,12 +4539,12 @@ html.updated {
 .temporary-limits-increase-modal .button.disabled:hover,
 .temporary-limits-increase-modal .button:focus[disabled],
 .temporary-limits-increase-modal .button:hover[disabled] {
-    background-color: #1aa3ff
+    background-color: #52ab98
 }
 
 .temporary-limits-increase-modal .button.ladda-button[disabled],
 .temporary-limits-increase-modal .button.ladda-button[disabled]:hover {
-    background-color: #1aa3ff
+    background-color: #52ab98
 }
 
 .temporary-limits-increase-modal .button:link {
@@ -4557,7 +4557,7 @@ html.updated {
     text-rendering: optimizeLegibility;
     font-family: Arial;
     font-weight: 400;
-    color: #1aa3ff;
+    color: #52ab98;
     font-size: 14px;
     line-height: 17px;
     text-align: center;
@@ -4569,7 +4569,7 @@ html.updated {
 
 .temporary-limits-increase-modal .link:focus,
 .temporary-limits-increase-modal .link:hover {
-    color: #1894e8
+    color: #2b6777
 }
 
 body {

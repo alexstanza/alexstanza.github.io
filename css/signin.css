@@ -23,7 +23,7 @@
 }
 
 .blue {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .red {
@@ -157,11 +157,11 @@
 
 .validated-input>input:focus,
 .validated-input>select:focus {
-    border: solid 1px #1aa3ff
+    border: solid 1px #52ab98
 }
 
 .validated-input>input.is-dirty:not(.is-invalid):focus {
-    border: solid 1px #1aa3ff
+    border: solid 1px #52ab98
 }
 
 .validated-input>input.is-invalid.has-visited:not(:focus):not(:hover) {
@@ -301,7 +301,7 @@
     position: absolute;
     right: 0;
     top: -17px;
-    color: #1aa3ff;
+    color: #52ab98;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 11px;
@@ -311,7 +311,7 @@
 
 .validated-input>a:focus,
 .validated-input>a:hover {
-    color: #1894e8
+    color: #52ab98
 }
 
 .validated-input>.help-container {
@@ -365,8 +365,8 @@
 }
 
 .validated-input>input:focus~.help-container {
-    background-color: #1aa3ff;
-    border: solid 1px #1aa3ff;
+    background-color: #52ab98;
+    border: solid 1px #52ab98;
     border-top: none
 }
 
@@ -474,7 +474,7 @@ select.always-has-info {
     margin-top: 35px;
     padding: 0 30px;
     border-radius: 5px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     border: 0;
     color: #fff;
     display: inline-block;
@@ -486,7 +486,7 @@ select.always-has-info {
 
 .button:focus,
 .button:hover {
-    background-color: #1894e8
+    background-color: #2b6777
 }
 
 .button.disabled,
@@ -499,12 +499,12 @@ select.always-has-info {
 .button.disabled:hover,
 .button:focus[disabled],
 .button:hover[disabled] {
-    background-color: #1aa3ff
+    background-color: #c8d8e4
 }
 
 .button.ladda-button[disabled],
 .button.ladda-button[disabled]:hover {
-    background-color: #1aa3ff
+    background-color: #c8d8e4
 }
 
 .button:first-child {
@@ -579,7 +579,7 @@ select.always-has-info {
 }
 
 [type=radio]:checked+label:before {
-    border-color: #1aa3ff
+    border-color: #52ab98
 }
 
 [type=radio]:checked+label:after,
@@ -587,7 +587,7 @@ select.always-has-info {
     content: "";
     width: 8px;
     height: 8px;
-    background: #1aa3ff;
+    background: #52ab98;
     position: absolute;
     top: 4px;
     left: 4px;
@@ -1184,7 +1184,7 @@ header .hamburger svg {
 }
 
 .mfa-modal .input-container input:focus {
-    border-bottom: 2px solid #1aa3ff
+    border-bottom: 2px solid #52ab98
 }
 
 .mfa-modal .cancel {
@@ -1192,7 +1192,7 @@ header .hamburger svg {
 }
 
 .mfa-modal .cancel a {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .mfa-modal .cancel a:focus,
@@ -1278,7 +1278,7 @@ header .hamburger svg {
 
 .limits-progress-bar .simple-progress-bar .inner-progress-bar {
     transition: width .2s ease-in;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     height: 4px
 }
 
@@ -1310,7 +1310,7 @@ header .hamburger svg {
 
 .pw-strength--bar-progress {
     height: 8px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     display: inline-block;
     transition: all .3s ease-in;
     position: absolute;
@@ -1417,7 +1417,7 @@ header .hamburger svg {
 }
 
 .discrete-progressbar .discrete-progressbar-part .discrete-progressbar-steps .step.current {
-    background-color: #1aa3ff
+    background-color: #52ab98
 }
 
 .discrete-progressbar .discrete-progressbar-part .discrete-progressbar-steps .step.past {
@@ -1506,7 +1506,7 @@ header .hamburger svg {
 
 .footer li a {
     font-size: 12px;
-    color: #1aa3ff;
+    color: #52ab98;
     margin: 5px 10px;
     display: block
 }
@@ -1622,7 +1622,7 @@ header .hamburger svg {
 }
 
 .validated-input.copyable-field .copy-button .copy-success-icon path {
-    fill: #1aa3ff
+    fill: #52ab98
 }
 
 .validated-input.copyable-field span.label-container.copy-success-label {
@@ -1631,7 +1631,7 @@ header .hamburger svg {
 }
 
 .validated-input.copyable-field span.label-container.copy-success-label label {
-    color: #1aa3ff;
+    color: #52ab98;
     opacity: 0;
     text-align: right;
     width: 100%
@@ -1824,7 +1824,7 @@ html.updated {
     font-style: normal;
     letter-spacing: .075em;
     text-transform: uppercase;
-    color: #1aa3ff;
+    color: #52ab98;
     text-align: center
 }
 
@@ -1993,11 +1993,11 @@ html.updated {
 }
 
 .page-common .side-nav ul li a:hover {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .page-common .side-nav ul li .selected {
-    color: #1aa3ff
+    color: #52ab98
 }
 
 .page-common .side-nav ul li .disabled {
@@ -2131,7 +2131,7 @@ html.updated {
     font-family: Arial;
     font-weight: 400;
     font-style: normal;
-    font-size: 28px;
+    font-size: 48px;
     text-align: center;
     margin: 0 auto 7px auto
 }
@@ -2343,12 +2343,12 @@ html.updated {
 
 .page-common .validated-input>input:focus,
 .page-common .validated-input>select:focus {
-    border: solid 1px #1aa3ff
+    border: solid 1px #52ab98
 }
 
 .page-common .validated-input>input.is-dirty:not(.is-invalid):focus,
 .page-common .validated-input>select.is-dirty:not(.is-invalid):focus {
-    border: solid 1px #1aa3ff
+    border: solid 1px #52ab98
 }
 
 .page-common .validated-input>input.is-invalid.has-visited:not(:focus):not(:hover),
@@ -2506,7 +2506,7 @@ html.updated {
     position: absolute;
     right: 0;
     top: -17px;
-    color: #1aa3ff;
+    color: #52ab98;
     text-transform: uppercase;
     text-decoration: none;
     font-size: 11px;
@@ -2562,8 +2562,8 @@ html.updated {
 }
 
 .page-common .validated-input>input:focus~.help-container {
-    background-color: #1aa3ff;
-    border: solid 1px #1aa3ff;
+    background-color: #52ab98;
+    border: solid 1px #52ab98;
     border-top: none
 }
 
@@ -2695,7 +2695,7 @@ html.updated {
     margin-top: 35px;
     padding: 0 30px;
     border-radius: 5px;
-    background-color: #1aa3ff;
+    background-color: #52ab98;
     border: 0;
     color: #fff;
     display: inline-block;
@@ -2707,7 +2707,7 @@ html.updated {
 
 .page-common .button:focus,
 .page-common .button:hover {
-    background-color: #1894e8
+    background-color: #2b6777
 }
 
 .page-common .button.disabled,
@@ -2721,12 +2721,12 @@ html.updated {
 .page-common .button.disabled:hover,
 .page-common .button:focus[disabled],
 .page-common .button:hover[disabled] {
-    background-color: #90d2ff
+    background-color: #c8d8e4
 }
 
 .page-common .button.ladda-button[disabled],
 .page-common .button.ladda-button[disabled]:hover {
-    background-color: #1aa3ff
+    background-color: #c8d8e4
 }
 
 .page-common .button.ladda-button[data-size="l"] .ladda-label {
@@ -2763,8 +2763,8 @@ html.updated {
 
 .page-common .button.white {
     background-color: #fff;
-    border: 1px solid #1aa3ff;
-    color: #1aa3ff
+    border: 1px solid #52ab98;
+    color: #52ab98
 }
 
 .page-common .button.white:focus,
@@ -2787,7 +2787,7 @@ html.updated {
     font-weight: 400;
     font-style: normal;
     border: none;
-    color: #1aa3ff;
+    color: #52ab98;
     font-size: 14px;
     display: block;
     cursor: pointer
@@ -2796,7 +2796,7 @@ html.updated {
 .page-common .inline-link {
     background-color: rgba(0, 0, 0, 0);
     border: none;
-    color: #1aa3ff;
+    color: #52ab98;
     cursor: pointer;
     padding: 0
 }
@@ -2860,7 +2860,7 @@ html.updated {
 }
 
 .page-common [type=radio]:checked+label:before {
-    border-color: #1aa3ff
+    border-color: #52ab98
 }
 
 .page-common [type=radio]:checked+label:after,
@@ -2868,7 +2868,7 @@ html.updated {
     content: "";
     width: 8px;
     height: 8px;
-    background: #1aa3ff;
+    background: #52ab98;
     position: absolute;
     top: 6px;
     left: 4px;
